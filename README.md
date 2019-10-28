@@ -5,7 +5,7 @@ A new Flutter project.
 <img src="foto.png" height="500em" />
 
 ## ScreenShot Rodando na Web
-<img src="foto2.png" height="1400em" />
+<img src="foto2.png"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
